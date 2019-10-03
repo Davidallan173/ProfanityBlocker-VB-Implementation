@@ -1,0 +1,13 @@
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\bin\Debug\ProfanityBlocker-VB-NET-Implementation.dll
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\bin\Debug\ProfanityBlocker-VB-NET-Implementation.pdb
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\bin\Debug\ProfanityBlocker-VB-NET-Implementation.xml
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker-VB-NET-Implementation.vbprojAssemblyReference.cache
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker_VB_NET_Implementation.Resources.resources
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker-VB-NET-Implementation.vbproj.GenerateResource.cache
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker-VB-NET-Implementation.vbproj.CoreCompileInputs.cache
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker-VB-NET-Implementation.dll
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker-VB-NET-Implementation.xml
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker-VB-NET-Implementation.pdb
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\bin\Debug\Newtonsoft.Json.dll
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\bin\Debug\Newtonsoft.Json.xml
+D:\PB GIT\ProfanityBlocker-VB-Implementation\ProfanityBlocker-VB-NET-Implementation\ProfanityBlocker-VB-NET-Implementation\obj\Debug\ProfanityBlocker-VB-NET-Implementation.vbproj.CopyComplete
